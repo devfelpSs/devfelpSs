@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe - aka [devfelpS] 👋
+### Hi there, I'm Felipe - aka devfelpS 👋
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning everything 🤣
@@ -26,13 +26,10 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/devfelpSs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelpSs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div align="right">
-  <a href="https://github.com/devfelpSs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelpSs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelpSs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelpSs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--[website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
