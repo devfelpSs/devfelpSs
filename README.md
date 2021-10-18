@@ -1,3 +1,5 @@
+---
+
 ### Hi there, I'm Felipe - aka [devfelpS] 👋
 
 - 🔭 I’m currently working on my personal website
@@ -20,7 +22,6 @@
   <img align="center" alt="devfelpSs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="devfelpSs-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="devfelpSs-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="devfelpSs-centos7" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg">
 </div>
 
 <br />
@@ -33,6 +34,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelpSs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---  
+  
 <!--[website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
 [email]: mailto:devfelps@outlook.com
