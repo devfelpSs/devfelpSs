@@ -1,5 +1,3 @@
----
-
 ### Hi there, I'm Felipe - aka [devfelpS] 👋
 
 - 🔭 I’m currently working on my personal website
@@ -33,8 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelpSs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelpSs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
----  
   
 <!--[website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
