@@ -1,10 +1,5 @@
 ### Hi there, I'm Felipe - aka [devfelpS] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source projects
@@ -12,16 +7,6 @@
 - ⚡ Fun fact: I like to play CTF's / chess
 
 ---
-<!--
-### Connect with me:
-
-[<img align="left" alt="devfelps.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devfelpSs | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="devfelpSs | Email" width="22px" src="" />][email]
-[<img align="left" alt="devfelpSs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="devfelpSs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-<br />
 
 ### Languages and Tools:
 
@@ -36,7 +21,6 @@
 </div>
 
 <br />
-<br />
 
 ---
 
@@ -47,7 +31,17 @@
 
 </details>
 
-[website]: https://devfelps.com
+<!--[website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
 [email]: mailto:devfelps@outlook.com
 [facebook]: https://www.facebook.com/fdsouza99/
+
+
+### Connect with me:
+
+[<img align="left" alt="devfelps.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="devfelpSs | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="devfelpSs | Email" width="22px" src="" />][email]
+[<img align="left" alt="devfelpSs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="devfelpSs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
