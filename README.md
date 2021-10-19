@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I like to play CTF's / chess
 
 
-### Languages and Tools:
+### 🔨 Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="devfelpSs-vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="devfelpSs-term" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -20,8 +20,7 @@
   <img align="center" alt="devfelpSs-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 </div>
 
-<br />
-
+### 📊 Github Stats:
 <div align="left">
   <a href="https://github.com/devfelpSs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelpSs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
