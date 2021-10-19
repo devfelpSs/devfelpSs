@@ -8,7 +8,7 @@
 
 
 ### 🔨 Languages and Tools:
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="devfelpSs-vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="devfelpSs-term" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="devfelpSs-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
