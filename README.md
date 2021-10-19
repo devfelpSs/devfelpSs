@@ -8,7 +8,6 @@
 
 
 ### Languages and Tools:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="devfelpSs-vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="devfelpSs-term" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -23,11 +22,11 @@
 
 <br />
 
-
 <div align="left">
   <a href="https://github.com/devfelpSs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelpSs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
+<br />
 <!--[website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
 [email]: mailto:devfelps@outlook.com
