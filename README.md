@@ -1,13 +1,11 @@
-### Hi there, I'm Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--👋-->
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
 
+### 🧐 About Me:
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open source projects
-- 🥅 Goals: Be a better person
+- 🤝 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I like to play CTF's / chess
 
----
 
 ### Languages and Tools:
 
@@ -25,7 +23,6 @@
 
 <br />
 
----
 
 <div align="left">
   <a href="https://github.com/devfelpSs">
