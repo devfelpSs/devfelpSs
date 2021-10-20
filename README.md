@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">, I'm Felipe!
 
 ### 🧐 About Me:
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on my website
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I like to play CTF's / chess
