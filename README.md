@@ -1,5 +1,4 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">, I'm Felipe! <img align="center" alt="Csharp" height="20" width="100" src="https://komarev.com/ghpvc/?username=devfelpSs&color=blue" alt="devfelpSs" /> <br>
-
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">, I'm Felipe!
  </div>  
 
 ### 🧐 About Me:
@@ -29,6 +28,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelpSs&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br />
+ 
+<img align="center" alt="Csharp" height="20" width="100" src="https://komarev.com/ghpvc/?username=devfelpSs&color=blue" alt="devfelpSs" /> <br>
+
 <!--
 [website]: https://devfelps.com
 [linkedin]: https://www.linkedin.com/in/devfelps/
