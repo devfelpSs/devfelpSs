@@ -29,7 +29,7 @@
 </div>
 <br />
  
-<img align="center" alt="Csharp" height="20" width="100" src="https://komarev.com/ghpvc/?username=devfelpSs&color=blue" alt="devfelpSs" /> <br>
+<img align="center" alt="Csharp" height="20" width="100" src="https://komarev.com/ghpvc/?username=devfelpSs&color=black" alt="devfelpSs" /> <br>
 
 <!--
 [website]: https://devfelps.com
