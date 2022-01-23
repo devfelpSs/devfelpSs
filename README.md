@@ -2,7 +2,7 @@
  </div>  
 
 ### 🧐 About Me:
-- 🔭 I’m currently doing frontend mentor challenges
+- 🔭 I’m currently making frontend mentor challenges
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate in open source projects
 - ⚡ Fun fact: I like to play CTF's / chess
