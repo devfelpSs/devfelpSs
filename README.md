@@ -2,10 +2,10 @@
  </div>  
 
 ### 🧐 About Me:
-- 🔭 I’m currently making frontend mentor challenges
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently making mobile apps
+- 🌱 I’m currently learning Flutter/Dart, Swift iOS and Kotlin
 - 🤝 I’m looking to collaborate in open source projects
-- ⚡ Fun fact: I like to play CTF's / chess
+- ⚡ Fun fact: I like to play CTF / Chess
 
 
 ### 🔨 Languages and Tools:
