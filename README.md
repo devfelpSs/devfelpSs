@@ -3,7 +3,7 @@
 
 ### 🧐 About Me:
 - 🔭 I’m currently making mobile apps
-- 🌱 I’m currently learning Flutter/Dart, Swift iOS and Kotlin
+- 🌱 I’m currently learning Flutter/Dart, Swift/iOS and Kotlin
 - 🤝 I’m looking to collaborate in open source projects
 - ⚡ Fun fact: I like to play CTF / Chess
 
