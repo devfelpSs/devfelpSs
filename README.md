@@ -1,11 +1,10 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">, I'm Felipe!
  </div>  
 
-### 🧐 About Me:
+### About Me:
 - 🔭 I’m currently making mobile apps
-- 🌱 I’m currently learning Flutter/Dart, Swift/iOS and Kotlin
+- 🌱 I’m currently learning Flutter/Dart
 - 🤝 I’m looking to collaborate in open source projects
-- ⚡ Fun fact: I like to play CTF / Chess
 
 
 ### 🔨 Languages and Tools:
